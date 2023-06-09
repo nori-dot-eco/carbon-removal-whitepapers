@@ -1,4 +1,4 @@
-# CDR Blended Tonne Whitepaper
+# Nori Whitepaper - Blended Tonne
 
 ## Abstract
 
@@ -22,7 +22,12 @@ Since fossil fuel emissions come from carbon that was released from geological s
 
 (While beyond the scope of this paper, less durable fast-cycle carbon removal like regenerative agriculture or afforestation/reforestation could potentially be used to cancel out land-use emissions on a one-for-one basis.)
 
-The problem is twofold: 1) there is very little durable carbon removal available for purchase that has already been delivered and 2) new emissions begin causing damage as soon as they enter the atmosphere — so you can’t achieve net zero by addressing current or past emissions retroactively with future carbon removals. Since most durable carbon removal purchases possible today are, by necessity, commitments to buy carbon removed in the future, a current or past vintage is required to make a net zero status claim credible *in the present*.
+The problem is twofold:
+
+1. There is very little durable carbon removal available for purchase that has already been delivered.
+2. New emissions begin causing damage as soon as they enter the atmosphere — so you can’t achieve net zero by addressing current or past emissions retroactively with future carbon removals.
+ 
+Since most durable carbon removal purchases possible today are, by necessity, commitments to buy carbon removed in the future, a current or past vintage is required to make a net zero status claim credible *in the present*.
 
 The solution we propose is combining a tonne of fast-cycle (biological) carbon removal with another tonne of slow-cycle (geological) carbon removal to create a hybrid credit, where currently-available but impermanent (fast) soil carbon rolls over into a future high-permanence (slow) carbon credit to be delivered within the lifespan of the soil credit. Typically we expect the slow carbon to be delivered before the expiration of the fast carbon, thus resulting in substantial overlap during which the climate impact may be even higher than the absolute tonnes purchased.[^13]
 

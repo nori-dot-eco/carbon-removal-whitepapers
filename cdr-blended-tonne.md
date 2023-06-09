@@ -35,7 +35,7 @@ The solution we propose is combining a tonne of fast-cycle (biological) carbon r
 
 To ensure that the bundled hybrid credits meet the highest standards, Nori follows rigorous criteria for credit quality. The standards for soil carbon NRT (Nori Removal Tonne) quantification and issuance are described in detail in the Nori US Croplands Methodology.[^14] These standards include conservative, ex-post quantification, which ensures immediate impact and minimizes the risk of overestimating the amount of carbon removed. The standards also require third-party verification of practices, which guarantees that an independent entity has reviewed and confirmed that the carbon removal activities have been performed in accordance with the established guidelines.
 
-Slow-cycle carbon credits will only be accepted from Nori-approved suppliers that meet some set of common standards for carbon credits upon delivery, such as the ICROA (International Carbon Reduction and Offsetting Accreditation) principles[^15], or the ICVCM (Integrity Council for the Voluntary Carbon Market) core carbon principles.[^22] Nori’s approval for the high-durability credits requires that when delivered, the credits are real, additional, measured, verified, unique, permanent, and sustainable. This will ensure that the credits are genuine, not double-counted, and that the carbon removal projects have a lasting, positive impact on the environment and society. In addition, Nori will provide robust, transparent governance through the Nori marketplace and registry. Improved standards that are developed with the aim of helping the CDR industry scale while ensuring scientifically robust methodologies and market integrity will be incorporated into Nori’s approval process as appropriate.
+Slow-cycle carbon credits will only be accepted from Nori-approved suppliers that meet some set of common standards for carbon credits upon delivery, such as the ICROA (International Carbon Reduction and Offsetting Accreditation) principles,[^15] or the ICVCM (Integrity Council for the Voluntary Carbon Market) core carbon principles.[^16] Nori’s approval for the high-durability credits requires that when delivered, the credits are real, additional, measured, verified, unique, permanent, and sustainable. This will ensure that the credits are genuine, not double-counted, and that the carbon removal projects have a lasting, positive impact on the environment and society. In addition, Nori will provide robust, transparent governance through the Nori marketplace and registry. Improved standards that are developed with the aim of helping the CDR industry scale while ensuring scientifically robust methodologies and market integrity will be incorporated into Nori’s approval process as appropriate.
 
 Moreover, the quantification and MRV (Monitoring, Reporting, and Verification) process for slow-cycle carbon removals must be transparent and comply with all applicable regulatory requirements. This transparency will help maintain trust and enable accountability of projects. Nori will evaluate additional standards for potential introduction in future methodologies to further strengthen the quality and integrity of the credits.
 
@@ -72,6 +72,8 @@ The authors would like to acknowledge the contributions and feedback of the foll
 [Na’im Merchant](https://www.linkedin.com/in/naimmerchant/), Carbon Removal Canada<br>
 [Robert Höglund](https://www.linkedin.com/in/roberthoglund/), Marginal Carbon / Milkywire<br>
 [Zeke Hausfather](https://www.linkedin.com/in/zeke-hausfather-7327699/), Stripe<br>
+[Wil Burns](https://www.linkedin.com/in/drburns/), American University<br>
+[Patrick Tsao](https://www.linkedin.com/in/pattsao/), Nori<br>
 
 [^1]: Biochar producers may disagree with this, but for the purpose of this paper we are going to consider biochar to be somewhere in-between the duration of the slow and fast carbon cycles.
 [^2]: See split between tonnes sold vs. tonnes delivered on https://www.cdr.fyi/ 
@@ -88,4 +90,4 @@ The authors would like to acknowledge the contributions and feedback of the foll
 [^13]: This depends upon which measure is being used, but seems more useful if thinking about avoiding climate tipping points.
 [^14]: See Nori's [Croplands Methodology 1.4](https://drive.google.com/file/d/1no_cmLUopPQaw0JP-frSgcfVGLH5HBeN/edit)
 [^15]: https://icroa.org/icroa-code-of-best-practice/
-[^22]: https://icvcm.org/the-core-carbon-principles/
+[^16]: https://icvcm.org/the-core-carbon-principles/

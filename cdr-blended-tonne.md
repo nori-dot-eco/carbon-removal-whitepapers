@@ -18,7 +18,7 @@ Biological carbon removal and storage lasts within the timespan of organic life 
 
 Geological carbon removal lasts on the civilizational time scale or longer, and is a part of the “slow carbon cycle”. It involves the exchange of carbon between Earth's atmosphere, oceans, and crust through processes like weathering, erosion, deposition, and burial. Carbon in the slow carbon cycle is often mineralized or otherwise stored in a stable form unlikely to be cycled back into the atmosphere on human timescales.[^9] The storage period for these is generally accepted to be a minimum of 1,000 years or functionally permanent. This is considered highly durable.
 
-The dominant framework for companies and others wishing to credibly claim negated carbon emissions is called net zero. Though not defined by any single standard at the moment, the Science Based Targets Initiative (SBTi) standard is often referenced.[^10] SBTi, and others, have designed net-zero standards to be strict, as previous attempts by companies making environmental claims have often been overstated or otherwise improper. Net-zero commitments imply that if a tonne of carbon dioxide is mobilized (emitted), an equivalent amount of carbon needs to be immobilized (removed and stored) in a permanent way, or at the very least, in a similar way.[^11]
+The dominant framework for companies and others wishing to credibly claim negated carbon emissions is called net-zero. Though not defined by any single standard at the moment, the Science Based Targets Initiative (SBTi) standard is often referenced.[^10] SBTi, and others, have designed net-zero standards to be strict, as previous attempts by companies making environmental claims have often been overstated or otherwise improper. Net-zero commitments imply that if a tonne of carbon dioxide is mobilized (emitted), an equivalent amount of carbon needs to be immobilized (removed and stored) in a permanent way, or at the very least, in a similar way.[^11]
 
 Since fossil fuel emissions come from carbon that was released from geological storage where it would likely have remained were it not for human intervention, the release should be addressed by removing and fixing carbon in permanent storage.[^12] That means that a tonne of carbon dioxide emitted through the burning of fossil fuels can not be offset to result in ‘net-zero’ by removing a tonne via fast-cycle carbon removal alone, nor by any type of reduction or avoidance offset.
 
@@ -27,9 +27,9 @@ Since fossil fuel emissions come from carbon that was released from geological s
 The problem is twofold:
 
 1. Nearly all durable carbon removal available for purchase today represents future carbon removal, with delivery several years out.
-2. New emissions begin causing damage as soon as they enter the atmosphere — so you can’t achieve net zero by addressing current or past emissions retroactively with future carbon removals.
+2. New emissions begin causing damage as soon as they enter the atmosphere — so you can’t achieve net-zero by addressing current or past emissions retroactively with future carbon removals.
  
-Since most durable carbon removal purchases possible today are, by necessity, commitments to buy carbon removed in the future, a current or past vintage is required to make a net zero status claim credible *in the present*.
+Since most durable carbon removal purchases possible today are, by necessity, commitments to buy carbon removed in the future, a current or past vintage is required to make a net-zero status claim credible *in the present*.
 
 The solution we propose is combining a tonne of fast-cycle (biological) carbon removal with another tonne of slow-cycle (geological) carbon removal to create a hybrid credit, where currently-available but impermanent (fast) soil carbon rolls over into a future high-permanence (slow) carbon credit to be delivered within the lifespan of the soil credit. Typically we expect the slow carbon to be delivered before the expiration of the fast carbon, thus resulting in substantial overlap during which the climate impact may be even higher than the absolute tonnes purchased.[^13]
 
@@ -45,7 +45,7 @@ Nori recognizes vintages for carbon removal credits, which designate the year in
 
 ## Governance
 
-Ensuring that a buyer of a blended tonne purchases the full carbon removal credit, i.e. both the less durable fast-cycle credit available immediately and the more durable slow-cycle credit available in the future, is essential if companies are going to use this product for net-zero claims. While Nori has not determined the exact mechanism to ensure the complete purchase of a blended tonne, there are a few options being considered — research into the legal and financial aspects needs to be conducted before a final mechanism is chosen. Additionally, further user research of buyer and supplier needs is required. Further, Nori expects iteration in collaboration with market participants on these mechanisms as the CDR industry matures and grows.
+Ensuring that a buyer of a blended tonne purchases the full carbon removal credit (i.e. both the less durable fast-cycle credit available immediately and the more durable slow-cycle credit available in the future) is essential if companies are going to use this product for net-zero claims. While Nori has not determined the exact mechanism to ensure the complete purchase of a blended tonne, there are a few options being considered — research into the legal and financial aspects needs to be conducted before a final mechanism is chosen. Additionally, further user research of buyer and supplier needs is required. Nori expects iteration in collaboration with market participants on these mechanisms as the CDR industry matures and grows.
 
 We are currently considering the following mechanisms:
 
@@ -57,7 +57,7 @@ Nori must consider the situation where a supplier does not meet its obligation o
 
 ## Conclusion
 
-By combining less-durable fast-cycle carbon removal that is available now with the promise of highly-durable slow-cycle carbon removal in the future, this new product will offer both immediate and lasting impact. The blended tonne would contribute to the funding of future, more durable carbon removal solutions and slow-acting carbon techniques (like enhanced rock weathering) while allowing a credible process by which ecosystem restoration and temporary carbon storage can support proper carbon accounting and removal. Furthermore, this new type of carbon removal asset makes it both possible and easy to address this year’s emissions and, assuming proper accounting, support robust claims of ‘carbon neutrality’ or ‘net zero’. 
+By combining less-durable fast-cycle carbon removal that is available now with the promise of highly-durable slow-cycle carbon removal in the future, this new product will offer both immediate and lasting impact. The blended tonne would contribute to the funding of future, more durable carbon removal solutions and slow-acting carbon techniques (like enhanced rock weathering) while allowing a credible process by which ecosystem restoration and temporary carbon storage can support proper carbon accounting and removal. Furthermore, this new type of carbon removal asset makes it both possible and easy to address this year’s emissions and, assuming proper accounting, support robust claims of ‘carbon neutrality’ or ‘net-zero’. 
 
 ## Authors
 

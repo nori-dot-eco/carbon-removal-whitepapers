@@ -4,7 +4,7 @@
 
 Currently, most durable carbon removals, like direct air capture, are sold out or very nearly so.[^1] Many durable carbon credits on the market today are pre-selling future vintages that will not be delivered for several years.[^2] This means that although the carbon removed will be stored for 1,000+ years, it won’t actually be removed from the atmosphere until a future date. Less-durable carbon removal, like soil carbon and forestry, is available now, and in greater quantities. But, as it stands, on their own, neither option satisfies the net-zero requirements that so many purchasers would like to qualify for.
 
-The more durable carbon removals lack immediacy and could only be used to qualify for emissions that happen after the carbon is actually removed, while the less-durable options don’t store carbon dioxide long enough to compensate for fossil fuel emissions, which linger in the atmosphere for hundreds of thousands of years.[^3] To solve this issue, Nori is proposing a ‘blended tonne’ that brings together the strengths of both — immediacy and durability — to offer a net-zero solution. By combining immediately available soil carbon credits with future durable carbon removals, Nori is creating a product that sequesters carbon today while meeting the permanency requirements of net-zero standards. 
+The more durable carbon removals lack immediacy and could only be used to qualify for emissions that happen after the carbon is actually removed, while the less-durable options don’t store carbon dioxide long enough to compensate for fossil fuel emissions, which linger in the atmosphere for hundreds of thousands of years.[^3] To solve this issue, [Nori](<http://www.nori.com>) is proposing a ‘blended tonne’ that brings together the strengths of both — immediacy and durability — to offer a net-zero solution. By combining immediately available soil carbon credits with future durable carbon removals, Nori is creating a product that sequesters carbon today while meeting the permanency requirements of net-zero standards. 
 
 By pairing each highly durable carbon removal asset with a less durable one that is immediately available and has an overlapping timeline, purchasers may credibly claim to be taking net-zero-qualifying climate action now while they fund and await the delivery of their high-durability carbon removal.[^4]
 
@@ -76,6 +76,10 @@ The authors would like to acknowledge the contributions and feedback of the foll
 [Robert Höglund](https://www.linkedin.com/in/roberthoglund/), Marginal Carbon / Milkywire<br>
 [Wil Burns](https://www.linkedin.com/in/drburns/), American University<br>
 [Zeke Hausfather](https://www.linkedin.com/in/zeke-hausfather-7327699/), Stripe<br>
+
+## Feedback
+
+Embodying [Nori](<http://www.nori.com>)'s commitment to transparency, we've chosen an open-source approach for feedback. We invite you to contribute your thoughts, questions, relevant insights, and suggestions to refine the product concept further. Instructions on how to do so can be found [here](<https://github.com/nori-dot-eco/carbon-removal-whitepapers/issues>).  
 
 [^1]: Biochar producers may disagree with this, but for the purpose of this paper we are going to consider biochar to be somewhere in-between the duration of the slow and fast carbon cycles.
 [^2]: See split between tonnes sold vs. tonnes delivered on https://www.cdr.fyi/ 

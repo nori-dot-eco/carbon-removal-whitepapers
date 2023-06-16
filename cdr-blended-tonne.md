@@ -79,7 +79,7 @@ The authors would like to acknowledge the contributions and feedback of the foll
 
 ## Feedback
 
-Embodying [Nori](<http://www.nori.com>)'s commitment to transparency, we've chosen an open-source approach for feedback. We invite you to contribute your thoughts, questions, relevant insights, and suggestions to refine the product concept further. Instructions on how to do so can be found [here](<https://github.com/nori-dot-eco/carbon-removal-whitepapers/issues>).  
+Embodying [Nori](<http://www.nori.com>)'s commitment to transparency, we've chosen an open-source approach for feedback. We invite you to contribute your thoughts, questions, relevant insights, and suggestions to refine the product concept further. Instructions on how to do so can be found [here](<https://github.com/nori-dot-eco/carbon-removal-whitepapers#readme)>).  
 
 [^1]: Biochar producers may disagree with this, but for the purpose of this paper we are going to consider biochar to be somewhere in-between the duration of the slow and fast carbon cycles.
 [^2]: See split between tonnes sold vs. tonnes delivered on https://www.cdr.fyi/ 

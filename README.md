@@ -7,3 +7,5 @@ Thank you for your stopping by!
 —
 
 Read the Blended Tonne whitepaper [here](<https://github.com/nori-dot-eco/carbon-removal-whitepapers/blob/main/cdr-blended-tonne.md>).  
+
+Nori's Carbon Removal Blended Tonne Whitepaper © 2023 by Nori Inc. is licensed under [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>).

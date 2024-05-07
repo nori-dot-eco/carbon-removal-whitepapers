@@ -97,3 +97,7 @@ Embodying [Nori](<http://www.nori.com>)'s commitment to transparency, we've chos
 [^14]: See Nori's [Croplands Methodology 1.4](https://drive.google.com/file/d/1no_cmLUopPQaw0JP-frSgcfVGLH5HBeN/edit)
 [^15]: https://icroa.org/icroa-code-of-best-practice/
 [^16]: https://icvcm.org/the-core-carbon-principles/
+
+## License
+
+Nori's Carbon Removal Blended Tonne Whitepaper © 2023 by Nori Inc. is licensed under [CC BY-SA 4.0](<https://creativecommons.org/licenses/by-sa/4.0>).
